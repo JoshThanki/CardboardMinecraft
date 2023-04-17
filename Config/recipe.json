@@ -1,0 +1,351 @@
+{
+"nothing":
+
+	{
+		"crafting bench":
+
+		{
+		"wood":10
+		}
+	},
+
+
+"furnace":
+	{
+		"copper bar":
+		{
+		"copper":3
+		},
+
+		"tin bar":
+		{
+		"tin":3
+		},
+
+		"lead bar":
+		{
+		"lead":3
+		},
+
+		"tungsten bar":
+		{
+		"tungsten":3
+		},
+
+		"platinum bar":
+		{
+		"platinum":3
+		},
+
+		"mithril bar":
+		{
+		"mithril":3
+		},
+
+		"adamantite bar":
+		{
+		"adamantite":3
+		},
+
+		"uru bar":
+		{
+		"uru":3
+		}
+
+	},
+
+
+"anvil":
+	{
+		"copper sword":
+		{
+		"copper bar":5,
+		"wood":5
+		},
+
+		"copper pickaxe":
+		{
+		"copper bar":10,
+		"wood":5
+		},
+
+		"copper axe":
+		{
+		"copper bar":5,
+		"wood":5
+		},
+
+		"copper hammer":
+		{
+		"copper bar":5,
+		"wood":5
+		},
+
+		"tin sword":
+		{
+		"tin bar":5,
+		"wood":5
+		},
+
+		"tin pickaxe":
+		{
+		"tin bar":10,
+		"wood":5
+		},
+
+		"tin axe":
+		{
+		"tin bar":5,
+		"wood":5
+		},
+
+		"tin hammer":
+		{
+		"tin bar":5,
+		"wood":5
+		},
+
+		"lead sword":
+		{
+		"lead bar":5,
+		"wood":5
+		},
+
+		"lead pickaxe":
+		{
+		"lead bar":10,
+		"wood":5
+		},
+
+		"lead axe":
+		{
+		"lead bar":5,
+		"wood":5
+		},
+
+		"lead hammer":
+		{
+		"lead bar":5,
+		"wood":5
+		},
+
+		"tungsten sword":
+		{
+		"tungsten bar":5,
+		"wood":5
+		},
+
+		"tungsten pickaxe":
+		{
+		"tungsten bar":10,
+		"wood":5
+		},
+
+		"tungsten axe":
+		{
+		"tungsten bar":5,
+		"wood":5
+		},
+
+		"tungsten hammer":
+		{
+		"tungsten bar":5,
+		"wood":5
+		},
+
+		"platinum sword":
+		{
+		"platinum bar":5,
+		"wood":5
+		},
+
+		"platinum pickaxe":
+		{
+		"platinum bar":10,
+		"wood":5
+		},
+
+		"platinum axe":
+		{
+		"platinum bar":5,
+		"wood":5
+		},
+
+		"platinum hammer":
+		{
+		"platinum bar":5,
+		"wood":5
+		},
+
+		"mithril sword":
+		{
+		"mithril bar":5,
+		"wood":5
+		},
+
+		"mithril pickaxe":
+		{
+		"mithril bar":10,
+		"wood":5
+		},
+
+		"mithril axe":
+		{
+		"mithril bar":5,
+		"wood":5
+		},
+
+		"adamantite sword":
+		{
+		"adamantite bar":5,
+		"wood":5
+		},
+
+		"adamantite pickaxe":
+		{
+		"adamantite bar":10,
+		"wood":5
+		},
+
+		"adamantite axe":
+		{
+		"adamantite bar":5,
+		"wood":5
+		},
+
+		"uru sword":
+		{
+		"uru bar":5,
+		"wood":5
+		},
+
+		"uru pickaxe":
+		{
+		"uru bar":10,
+		"wood":5
+		},
+
+		"uru hamaxe":
+		{
+		"uru bar":5,
+		"wood":5
+		}
+
+	},
+
+"crafting bench":
+	{	
+		"furnace":
+
+		{
+		"stone":20
+		},
+
+		"anvil":
+
+		{
+		"lead bar":15
+		},
+		
+		"copper brick":
+		{
+		"copper":1,
+		"stone":1
+		},
+
+		"tin brick":
+		{
+		"tin":1,
+		"stone":1
+		},
+
+		"lead brick":
+		{
+		"lead":1,
+		"stone":1
+		},
+
+		"tungsten brick":
+		{
+		"tungsten":1,
+		"stone":1
+		},
+
+		"platinum brick":
+		{
+		"platinum":1,
+		"stone":1
+		},
+
+		"mithril brick":
+		{
+		"mithril":1,
+		"stone":1
+		},
+
+		"adamantite brick":
+		{
+		"adamantite":1,
+		"stone":1
+		},
+
+		"uru brick":
+		{
+		"uru":1,
+		"stone":1
+		},
+
+    	"wood wall":
+		{
+		"wood":1
+		},
+
+		"copper wall":
+		{
+		"copper":1,
+		"wood":1
+		},
+
+		"tin wall":
+		{
+		"tin":1,
+		"wood":1
+		},
+
+		"lead wall":
+		{
+		"lead":1,
+		"wood":1
+		},
+
+		"tungsten wall":
+		{
+		"tungsten":1,
+		"wood":1
+		},
+
+		"platinum wall":
+		{
+		"platinum":1,
+		"wood":1
+		},
+
+		"mithril wall":
+		{
+		"mithril":1,
+		"wood":1
+		},
+
+		"adamantite wall":
+		{
+		"adamantite":1,
+		"wood":1
+		},
+
+		"uru wall":
+		{
+		"uru":1,
+		"wood":1
+		}
+	}
+}

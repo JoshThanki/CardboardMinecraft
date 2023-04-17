@@ -1,0 +1,138 @@
+{
+    "dirt":
+
+    {
+        "health":20
+    },
+
+   "grass":
+
+    {
+        "health":20
+    },
+
+    "stone":
+
+    {
+        "health":30
+    },
+
+	"copper":
+
+    {
+        "health":30
+    },
+
+    "tin":
+
+    {
+        "health":40
+    },
+
+    "lead":
+
+    {
+        "health":50
+    },
+
+    "tungsten":
+
+    {
+        "health":70
+    },
+
+    "platinum":
+
+    {
+        "health":90
+    },
+
+    "mithril":
+
+    {
+        "health":130
+    },
+
+    "adamantite":
+
+    {
+        "health":160
+    },
+
+    "uru":
+
+    {
+        "health":210
+    },
+
+   "bedrock":
+
+    {
+        "health":1000
+    },
+
+    "wood":
+
+    {
+        "health":30
+    },
+
+
+    "copper brick":
+
+    {
+        "health":30
+    },
+
+
+    "tin brick":
+
+    {
+        "health":30
+    },
+
+
+    "lead brick":
+
+    {
+        "health":30
+    },
+
+
+    "tungsten brick":
+
+    {
+        "health":30
+    },
+
+
+    "platinum brick":
+
+    {
+        "health":30
+    },
+
+
+    "mithril brick":
+
+    {
+        "health":30
+    },
+
+
+    "adamantite brick":
+
+    {
+        "health":30
+    },
+
+
+    "uru brick":
+
+    {
+        "health":30
+    }
+
+
+}
+

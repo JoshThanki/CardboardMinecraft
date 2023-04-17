@@ -1,0 +1,268 @@
+{
+    "copper sword":
+
+    {
+        "speed": 0.10,
+        "damage": 10,
+        "type": "sword",
+        "power": 10
+    },
+
+    "copper pickaxe":
+
+    {
+        "speed": 0.10,
+        "damage": 10,
+        "type": "pickaxe",
+        "power": 10
+    },
+
+    "copper axe":
+
+    {
+        "speed": 0.10,
+        "damage": 10,
+        "type": "axe",
+        "power": 10
+    },
+
+
+    "copper hammer":
+
+    {
+        "speed": 0.10,
+        "damage": 10,
+        "type": "hammer",
+        "power": 10
+    },
+
+    "tin sword":
+
+    {
+        "speed": 0.125,
+        "damage": 20,
+        "type": "sword",
+        "power": 20
+    },
+
+    "tin pickaxe":
+
+    {
+        "speed": 0.15,
+        "damage": 10,
+        "type": "pickaxe",
+        "power": 15
+    },
+
+    "tin axe":
+
+    {
+        "speed": 0.1125,
+        "damage": 10,
+        "type": "axe",
+        "power": 12
+    },
+
+
+    "tin hammer":
+
+    {
+        "speed": 0.125,
+        "damage": 10,
+        "type": "hammer",
+        "power": 15
+    },
+
+    "lead sword":
+
+    {
+        "speed": 0.15,
+        "damage": 30,
+        "type": "sword",
+        "power": 30
+    },
+
+    "lead pickaxe":
+
+    {
+        "speed": 0.20,
+        "damage": 10,
+        "type": "pickaxe",
+        "power": 20
+    },
+
+    "lead axe":
+
+    {
+        "speed": 0.125,
+        "damage": 10,
+        "type": "axe",
+        "power": 13
+    },
+
+
+    "lead hammer":
+
+    {
+        "speed": 0.15,
+        "damage": 10,
+        "type": "hammer",
+        "power": 20
+    },
+
+    "tungsten sword":
+
+    {
+        "speed": 0.175,
+        "damage": 40,
+        "type": "sword",
+        "power": 40
+    },
+
+    "tungsten pickaxe":
+
+    {
+        "speed": 0.25,
+        "damage": 10,
+        "type": "pickaxe",
+        "power": 25
+    },
+
+    "tungsten axe":
+
+    {
+        "speed": 0.1375,
+        "damage": 10,
+        "type": "axe",
+        "power": 15
+    },
+
+
+    "tungsten hammer":
+
+    {
+        "speed": 0.175,
+        "damage": 10,
+        "type": "hammer",
+        "power": 30
+    },
+
+    "platinum sword":
+
+    {
+        "speed": 0.20,
+        "damage": 50,
+        "type": "sword",
+        "power": 50
+    },
+
+    "platinum pickaxe":
+
+    {
+        "speed": 0.30,
+        "damage": 10,
+        "type": "pickaxe",
+        "power": 30
+    },
+
+    "platinum axe":
+
+    {
+        "speed": 0.15,
+        "damage": 10,
+        "type": "axe",
+        "power": 17
+    },
+
+
+    "platinum hammer":
+
+    {
+        "speed": 0.20,
+        "damage": 10,
+        "type": "hammer",
+        "power": 32
+    },
+
+    "mithril sword":
+
+    {
+        "speed": 0.225,
+        "damage": 60,
+        "type": "sword",
+        "power": 60
+    },
+
+    "mithril pickaxe":
+
+    {
+        "speed": 0.40,
+        "damage": 10,
+        "type": "pickaxe",
+        "power": 40
+    },
+
+    "mithril axe":
+
+    {
+        "speed": 0.1625,
+        "damage": 10,
+        "type": "axe",
+        "power": 20
+    },
+
+    "adamantite sword":
+
+    {
+        "speed": 0.25,
+        "damage": 70,
+        "type": "sword",
+        "power": 70
+    },
+
+    "adamantite pickaxe":
+
+    {
+        "speed": 0.50,
+        "damage": 10,
+        "type": "pickaxe",
+        "power": 70
+    },
+
+    "adamantite axe":
+
+    {
+        "speed": 0.175,
+        "damage": 10,
+        "type": "axe",
+        "power": 25
+    },
+
+    "uru sword":
+
+    {
+        "speed": 0.30,
+        "damage": 80,
+        "type": "sword",
+        "power": 80
+    },
+
+    "uru pickaxe":
+
+    {
+        "speed": 0.60,
+        "damage": 10,
+        "type": "pickaxe",
+        "power": 170
+    },
+
+    "uru hamaxe":
+
+    {
+        "speed": 0.30,
+        "damage": 10,
+        "type": "hamaxe",
+        "power": 35
+    }
+
+}
